@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const Img = styled.img`
-  width:100%;
-  height:100%;
-  object-fit: cover;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
   overflow: hidden;
 `
 
@@ -68,7 +68,7 @@ export const Intro = styled.div`
 
 export const CardInfo = styled.p`
   width: 100%;
-  padding: 25px 50px;
+  padding: 0 50px;
   color: #e4e6e7;
   font-style: 2rem;
   line-height: 24px;
