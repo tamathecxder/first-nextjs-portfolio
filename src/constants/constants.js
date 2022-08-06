@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Laundry App',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "build a web application about laundry data management, made using PHP and Laravel as well as a MySQL client database. There are several uses of external libraries such as DomPDF, Laravel Excel and others.",
     image: '/images/01.png',
     tags: ['Laravel', 'Bootstrap', 'jQuery'],
     source: 'https://github.com/tamathecxder/tugas-laravel-laundry',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Simple Quiz Trivia',
-    description: "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description: "A simple trivia quiz application that might increase your knowledge and be fun to play if you are bored. Built using React.js, Redux.js, API from Trivia DB, styling with Material UI and hosting with vercel.",
     image: '/images/02.png',
     tags: ['React', 'JavaScript', 'Redux.js', 'Material UI', 'Trivia DB'],
     source: 'https://simple-quiz-trivia.vercel.app/',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Photographer Portfolio',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "An elegant website portfolio for a photographer, there is a single page feature and see photo categories and gallery details from each category. Built with HTML, CSS, JavaScript and Bootstrap 5.",
     image: '/images/03.png',
     tags: ['HTML5', 'CSS3', 'Javascript', 'Bootstrap 5'],
     source: 'https://github.com/tamathecxder/photographer-portfolio',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'React - Rock Paper Scissors',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "Classic games made in a modern way to be more interactive and have a simple but fun impression. Built with React.js JavaScript library and styling using one of the popular CSS Preprocessor SASS/SCSS.",
     image: '/images/04.jpg',
     tags: ['React', 'SASS'],
     source: 'https://github.com/tamathecxder/react-rockpaperscissors',
