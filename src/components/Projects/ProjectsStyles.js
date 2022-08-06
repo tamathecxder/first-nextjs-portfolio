@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 export const Img = styled.img`
   width: 100%;
-  height: auto;
-  object-fit: contain;
+  height: 100%;
+  object-fit: cover;
   overflow: hidden;
 `
 
@@ -35,7 +35,6 @@ export const TitleContent = styled.div`
   text-align: center;
   z-index: 20;
   width: 100%;
-
 `;
 
 
