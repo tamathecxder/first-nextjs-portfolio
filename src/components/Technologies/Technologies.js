@@ -17,7 +17,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Exprerience with <br />
-            React.js
+            React.js, Bootstrap 5 and TailwindCSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
